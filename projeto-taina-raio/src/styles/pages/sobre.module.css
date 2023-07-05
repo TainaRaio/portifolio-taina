@@ -1,0 +1,45 @@
+
+
+
+.taiImage{
+    width: 40%;
+    offset-distance: 100px;
+   
+    
+}
+
+.sobreContainer{
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    
+}
+
+.cardNome{
+    
+    display: block;
+    margin-block-start: 0.83em;
+    margin-block-end: 0.83em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    font-weight: bold;
+    font-size: 3rem;
+    padding: 2rem;
+    color: rgb(94, 62, 207);
+}
+
+.cardParagrafo{
+    color: rgb(156, 141, 231);
+    display: block;
+    margin-block-start: 1em;
+    margin-block-end: 1em;
+    margin-inline-start: 0px;
+    margin-inline-end: 0px;
+    text-align: justify;
+}
+
+.textContainer{
+    width: 30rem
+    
+}
